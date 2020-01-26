@@ -1,13 +1,11 @@
-Vtiger - Building a simple extension module
+Vtiger - Building a AUftragsakten extension module
 ==============================
 
-This repo presents a minimalistic structure for a basic extension module for Vtiger.
+This repo presents a minimalistic structure for a the basic extension module for Vtiger.
 
 ## Usage ##
 
 This code was made and tested under Vtiger 6.0.0 beta and it will NOT work under 5.4. or earlier.
-
-I have made a [blog post](http://#) on the steps needed to build this module.
 
 ## License ##
 
