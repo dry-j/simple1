@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <module>
     <!-- Module name -->
-    <name>SimpleExtension</name>
+    <name>Auftragsakten</name>
     <!-- This is the name that will appar in the Vtiger GUI -->
-    <label>Simple Ext.</label>
+    <label>Auftragsakten.</label>
     <!-- Module will be listed under Tools -->
     <parent>Tools</parent>
     <!-- Module version -->
